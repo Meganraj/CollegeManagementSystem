@@ -1,4 +1,5 @@
 #College Management System
+
 This is a Java-based College Management System that allows you to manage students, courses, departments, and faculty. It provides functionalities to add and view details of these entities, ensuring efficient management of college operations.
 
 Features
